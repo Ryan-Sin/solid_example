@@ -30,3 +30,4 @@
 5. DIP : 의존관계 역전 원칙(Dependency inversion principle)
 ```
 
+:wq
